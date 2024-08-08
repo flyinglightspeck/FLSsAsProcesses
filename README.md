@@ -28,10 +28,11 @@ Adjust the following variables specified in `config.py`:
 
 `RESULTS_PATH`: set to ‘results’ to store the results locally
 
+Run `python3 primary.py`
 
 After the notification "INFO - Waiting for secondary nodes to connect" shows, run:
 
-`python3 secondary.py`
+Run `python3 secondary.py`
 
 Something similar to the following message should then be displayed:
 
