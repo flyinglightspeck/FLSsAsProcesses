@@ -5,7 +5,7 @@ This repository contains a basic skeleton of software that launches FLSs at proc
 Authors:  Hamed Alimohammadzadeh(halimoha@usc.edu), Shuqin Zhu (shuqinzh@usc.edu), Nima Yazdani (nimayazd@usc.edu), and Shahram Ghandeharizadeh (shahram@usc.edu)
 
 # Clone
-`git clone https://github.com/flslab/FailureHandling.git`
+`git clone https://github.com/flyinglightspeck/FLSsAsProcesses`
 
 
 ## Set Up Local
