@@ -101,3 +101,7 @@ Run `tail -f my.log` to trace the output in the root directory.
 To kill the running processes run `./decentralized_gen.sh -- kill`. Then run `bash nohup.kill.sh` on the primary node. 
 
 The results of the experiment should be written in `/proj/nova-PG0/Nima/results`. This is just an example directory, yours will be slightly different depending on your naming scheme.
+
+## Acknowledgments
+
+This research was supported in part by the NSF grants IIS-2232382.  We gratefully acknowledge CloudBank and CloudLab for the use of their resources.
